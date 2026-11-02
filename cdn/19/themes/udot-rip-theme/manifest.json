@@ -1,0 +1,23 @@
+{
+  "name": "udot-rip-theme",
+  "label": "UDOT RIP Theme",
+  "type": "theme",
+  "thumbnails ": [],
+  "font": {
+    "fontFamily": "Arial Narrow Bold",
+    "color": "#0c2444"
+  },
+  "version": "",
+  "exbVersion": "",
+  "author": "",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "translatedLocales": [
+    "en"
+  ],
+  "styleFiles": {
+    "css": false,
+    "js": true
+  }
+}

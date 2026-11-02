@@ -1,0 +1,21 @@
+{
+  "name": "natural_hazards",
+  "type": "widget",
+  "version": "1.15.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "exbVersion": "1.15.0",
+  "author": "Ahjung Kim @ High Street Consulting",
+  "description": "",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
